@@ -16,8 +16,8 @@ keywords:
   - glimpse
   - habits
 description: "DIVINE is a short glimpse through infinitely creative YOU. Choose your habits & mindset to unclock limitless creative energy kick daily. We'll get this conversation going at DivinelyCreative pocast. Soon!"
-datePublished: '2016-04-18T09:01:59.803Z'
-dateModified: '2016-04-18T09:01:57.505Z'
+datePublished: '2016-04-18T11:07:21.698Z'
+dateModified: '2016-04-18T09:02:11.391Z'
 author:
   - name: Catalysee
     url: 'http://facebook.com/501441476603297'
