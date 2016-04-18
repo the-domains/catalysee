@@ -1,7 +1,7 @@
 name: catalysee
 favicon: null
 layout_spectrum: 0.3684374715667218
-typography_spectrum: 0.07021
+typography_spectrum: 0.04214
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.4173408921342343
-  lightness: 0.6195564835797995
-  saturation: 0.648419309174642
-  rhythmicContrast: 0.9483399116434157
+    - '#000000'
+    - '#424242'
+    - '#ffffff'
+    - '#7b7b7b'
+    - '#a2a2a2'
+  brandStrength: 0.3125
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
