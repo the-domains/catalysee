@@ -4,7 +4,7 @@
         <description><![CDATA[catalysee]]></description>
         <link>https://thegrid.ai/catalysee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 11:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 11:13:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/catalysee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/catalysee/about/index.html</link>
             <guid isPermaLink="false">7dd77c50-342c-4197-8440-801e26e4e6c9</guid>
             <pubDate>Mon, 18 Apr 2016 11:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nebula Quake]]></title>
+            <description><![CDATA[<article><h1>Nebula Quake</h1><p>We've been working on a project with Sil van der Woerd. It was about an autistic boy who feels alienated in our chaotic world that he is forced to inhabit (https://vimeo.com/54448337). Here are a few of the visuals we've made during that project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca33b5285217c2715495f06db84ae101ddff5422.jpg"></article>]]></description>
+            <link>https://vimeo.com/68560523</link>
+            <guid isPermaLink="false">39b1695b-bc39-4767-93bb-38e8d74346e8</guid>
+            <pubDate>Mon, 18 Apr 2016 11:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[QuickThrough VRay in Maya | Reflection Falloff]]></title>
+            <description><![CDATA[<article><h1>QuickThrough VRay in Maya | Reflection Falloff</h1><p>Everything you need to know to dive into VRay - is up for you to go. Main focus is given to the reflection falloff trick - the connection of the sampler info. VRayMtl & VRayBlendMtl are the main materials covered up in this tutorial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38213ec6ed1379efa5f990cc0e62ec717cc60274.jpg"></article>]]></description>
+            <link>https://vimeo.com/103503711</link>
+            <guid isPermaLink="false">ae56d40f-b78a-4bcb-8b4a-be33f3922b49</guid>
+            <pubDate>Mon, 18 Apr 2016 11:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[SHIFT ELECTRONICS]]></title>
